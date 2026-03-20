@@ -50,7 +50,7 @@ export default function SalamiTracker() {
     <div className="min-h-screen bg-gray-100 p-6 font-sans">
       <div className="max-w-md mx-auto bg-white rounded-xl shadow-md overflow-hidden p-6">
         
-        <h1 className="text-3xl font-bold text-center text-green-600 mb-2">💰 Salami Tracker</h1>
+        <h1 className="text-3xl font-bold text-center text-green-600 mb-2">💰 Salami Tracker By Abdullah!</h1>
         <p className="text-center text-gray-500 mb-6">Eid Mubarak! Time to collect.</p>
 
         <div className="flex justify-between bg-green-50 p-4 rounded-lg mb-6">
